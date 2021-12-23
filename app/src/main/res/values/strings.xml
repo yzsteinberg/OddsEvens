@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Odds and Evens</string>
+    <string name="action_settings">Settings</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="pick_a_number_of_fingers_to_put_out">Pick a number of fingers to put out</string>
+    <string name="about">About</string>
+    <string name="view_statistics">view statistics</string>
+    <string name="reset_statistics">reset statistics</string>
+    <string name="go_for_even">Go for even</string>
+    <string name="rounds_played"><![CDATA[Rounds played: ]]></string>
+    <string name="rounds_won">Rounds\nWon</string>
+
+    <!-- Preference Titles -->
+    <string name="display_header">Display</string>
+    <string name="game_header">Game</string>
+
+    <!-- Preferences -->
+    <string name="night_mode_key">Night Mode</string>
+    <string name="night_mode_title">Night/Dark Mode</string>
+    <string name="night_mode_off">Never use Night/Dark Mode</string>
+    <string name="night_mode_on">Use Night/Dark Mode (unless disabled in OS Settings)</string>
+
+    <string name="auto_save_key">Auto-Save</string>
+    <string name="auto_save_off">On exit, the game in progress will not be saved</string>
+    <string name="auto_save_on">On exit, the game in progress will be saved</string>
+    <string name="auto_save_title">Auto-Save Game on Exit</string>
+    <string name="computer">Computer</string>
+
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_statistics">Statistics</string>
+    <string name="win_on_even_key">win-on-even</string>
+    <string name="win_when_odd">You win when the sum is odd</string>
+    <string name="win_when_even">You win when the sum is even</string>
+    <string name="win_on_even_title">Win on even</string>
+    <string name="pic_of_player_fingers">pic of player fingers</string>
+    <string name="player">player</string>
+</resources>

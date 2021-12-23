@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="primaryTextColoredColor">@color/primaryDarkColor</color>
+        <color name="secondaryTextColoredColor">@color/primaryColor</color>
+
+        <!-- Matching colored background -->
+        <color name="backgroundColoredColor">@color/primaryLightColor</color>
+
+        <color name="defaultBackgroundColor">@android:color/background_dark</color>
+
+</resources>

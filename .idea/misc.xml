@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/drawable/player_finger_0.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/bottom_row_of_buttons.xml" value="0.536" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/finger_buttons.xml" value="0.2" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/fingure_buttons.xml" value="0.1" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/instrcutions_with_card_buttons.xml" value="0.4" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/instructions_with_card_buttons.xml" value="0.1" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/main_include_instruction_bar.xml" value="0.5532900834105653" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/pics_of_fingers.xml" value="0.264" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/player_finger_pic.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/settings_activity.xml" value="0.11677479147358666" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/layout/top_row_of_buttons.xml" value="0.4" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/yzste/Documents/fall 2021/android/OddsandEvens/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

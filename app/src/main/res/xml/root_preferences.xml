@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:title="@string/display_header">
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:key="@string/night_mode_key"
+            app:summaryOff="@string/night_mode_off"
+            app:summaryOn="@string/night_mode_on"
+            app:title="@string/night_mode_title" />
+    </PreferenceCategory>
+    <PreferenceCategory app:title="@string/game_header">
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:key="@string/auto_save_key"
+            app:summaryOff="@string/auto_save_off"
+            app:summaryOn="@string/auto_save_on"
+            app:title="@string/auto_save_title" />
+        <SwitchPreferenceCompat
+            app:defaultValue="false"
+            app:key="@string/win_on_even_key"
+            app:summaryOff="@string/win_when_odd"
+            app:summaryOn="@string/win_when_even"
+            app:title="@string/win_on_even_title" />
+    </PreferenceCategory>
+</PreferenceScreen>
